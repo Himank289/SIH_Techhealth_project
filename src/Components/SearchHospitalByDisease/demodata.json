@@ -1,0 +1,86 @@
+[
+  { 
+    "disease":"multi-specialty hospital",
+    "hospital_name": "Ruby Hall Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"multi-specialty hospital",
+    "hospital_name": "Jehangir Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"multi-specialty hospital",
+    "hospital_name": "Sahyadri Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"multi-specialty hospital",
+    "hospital_name": "Columbia Asia Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"multi-specialty hospital",
+    "hospital_name": "Noble Hospital, Hadapsar",
+    "city": "pune"
+  },
+  { 
+    "disease":"Brain Diseases",
+    "hospital_name": "Aditya Birla Memorial Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"Urologist",
+    "hospital_name": "Aditya Birla Memorial Hospital",
+    "city": "pune"
+  },
+  { 
+    "disease":"Cancer Specialist",
+    "hospital_name": "universal Hospital Aundh",
+    "city": "pune"
+  },
+  { 
+      "disease":"Cardiologist",
+      "hospital_name": "Nobal Hospital Aundh",
+      "city": "pune"
+  },
+  { 
+    "disease":"Cardiologist",
+    "hospital_name": "Bharti Hospital Aundh",
+    "city": "pune"
+},
+{ 
+  "disease":"Typhoid",
+  "hospital_name": "Sahyadri Hospital",
+  "city": "pune"
+},  { 
+  "disease":"Pneumonia",
+  "hospital_name": "AIMS  Aundh",
+  "city": "pune"
+},
+{ 
+  "disease":"Cold",
+  "hospital_name": "Ruby Hospital Aundh",
+  "city": "pune"
+},
+{ 
+  "disease":"Viral Fever",
+  "hospital_name": "Patil Hospital Aundh",
+  "city": "pune"
+},
+{ 
+  "disease":"Fractures",
+  "hospital_name": "Pawar Hospital Aundh",
+  "city": "pune"
+},
+{ 
+  "disease":"Dengue",
+  "hospital_name": "Ranka Hospital Aundh",
+  "city": "pune"
+},
+{ 
+  "disease":"Fever",
+  "hospital_name": "AIMS Hospital Aundh",
+  "city": "pune"
+}
+]

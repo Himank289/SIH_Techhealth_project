@@ -1,0 +1,161 @@
+.searchInputs {
+    margin-top: 30px;
+    display: flex;
+  }
+  
+  .search input {
+    background-color:dodgerblue;
+    border: 0;
+    color: white;
+    /* border-radius: 2px; */
+    /* border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px; */
+    font-size: 30px;
+    padding: 25px;
+    height: 30px;
+    width: 100vw;
+    margin: auto;
+  }
+
+  .search input::placeholder{
+    color: white;
+  } 
+  
+  .searchIcon {
+    height: 80px;
+    width: 50px;
+    background-color:dodgerblue;
+    display: grid;
+    place-items: center;
+    /* border-radius: 2px; */
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .searchIcon svg {
+    font-size: 35px;
+  }
+  
+  .dataResult {
+    margin-top: 5px;
+    width: 100vw;
+    height: 400px;
+    background-color:aquamarine;
+    box-shadow: rgba(0, 0, 0, 0.699) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+  }
+  
+  .dataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .dataResult .dataItem {
+    width:100vw ;
+    height: 50px;
+    display:contents;
+    align-items:flex-start;
+    color: rgb(5, 5, 5);
+    text-align:start;
+  }
+  
+  .dataItem table {
+    border: 1px;
+    border-style: dashed;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: lightgrey;
+  }
+  
+  #clearBtn {
+    cursor: pointer;
+  }
+
+
+
+  /* mobile view */
+
+
+  .mobilesearchInputs {
+    margin-top: 30px;
+    display: flex;
+  }
+  
+  .mobilesearch input {
+    background-color:dodgerblue;
+    border: 0;
+    color: white;
+    /* border-radius: 2px; */
+    /* border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px; */
+    font-size: 18px;
+    padding: 15px;
+    height: 30px;
+    width: 100vw;
+  }
+
+  .mobilesearch input::placeholder{
+    color: white;
+  } 
+  
+  .mobilesearchIcon {
+    height: 60px;
+    width: 50px;
+    background-color:dodgerblue;
+    display: grid;
+    place-items: center;
+    /* border-radius: 2px; */
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .mobilesearchIcon svg {
+    font-size: 35px;
+  }
+  
+  .mobiledataResult {
+    margin-top: 5px;
+    width: 100vw;
+    height: 40vh;
+    background-color:cornsilk;
+    box-shadow: rgba(0, 0, 0, 0.699) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+  }
+  
+  .mobiledataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .mobiledataResult .dataItem {
+    width: 100vw;
+    height: 50px;
+    display:contents;
+    align-items:flex-start;
+    color: rgb(5, 5, 5);
+    text-align:start;
+  }
+  
+  .mobiledataItem table {
+    border: 1px;
+    border-style: dashed;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: lightgrey;
+  }
+  
+  #clearBtn {
+    cursor: pointer;
+  }

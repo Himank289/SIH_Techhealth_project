@@ -1,0 +1,260 @@
+[
+  {
+  
+  "hospitalName": "Sakra World Hospital",
+  "city": "Bengaluru",
+  "email": "https://www.sakraworldhospital.com",
+  "address": "SY NO 52/2 & 52/3, Devarabeesanahalli, Varthur Hobli Opp Intel, Dr Puneeth Rajkumar Rd, Marathahalli, Bengaluru, Karnataka 560103",
+  "pincode": 560103,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8049694969"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "KOSHYS MULTISPECIALTY HOSPITAL",
+  "city": "Bengaluru",
+  "email": "info@koshyshospital.com",
+  "address": "Thambu Chetty Palya Road, Raghavendra nagar Ramamurthy nagar extension, Ramamurthy Nagar, Bengaluru, Karnataka 560016",
+  "pincode": 560016,
+  "NumberOfAmbulance":"4",
+  "contact": [
+    "8043517700"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "North Bangalore Hospital",
+  "city": "Bengaluru",
+  "email": "http://northbangalorehospital.com/",
+  "address": "Kalyananagara, SY No.104, 4th, G Street, 125/1, 125/2, Kalyan Residency Road, Bengaluru, Karnataka 560043",
+  "pincode": 560043,
+  "NumberOfAmbulance":"5",
+  "contact": [
+    "9164399999"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Apollo Hospitals Bannerghatta",
+  "city": "Bengaluru",
+  "email": "https://bangalore.apollohospitals.com/locations/bannerghatta/",
+  "address": "154, IIM, 11, Bannerghatta Main Rd, opposite Krishnaraju Layout, Krishnaraju Layout, Amalodbhavi Nagar, Naga, Bengaluru, Karnataka 560076",
+  "pincode": 560076,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8026304050"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Manipal Hospitals Jayanagar",
+  "city": "Bengaluru",
+  "email": "https://www.manipalhospitals.com/jayanagar/",
+  "address": "Central Mall 45/1, 45th Cross Road, opp. Bangalore, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560069",
+  "pincode": 560069,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "18001024647"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  "hospitalName": "United Hospital",
+  "city": "Bengaluru",
+  "email": "https://unitedhospitals.com/",
+  "address": "No.30, Madhavan Park Circle, 10th Main Rd, Jayanagar 3rd Block, Bengaluru, Karnataka 560011",
+  "pincode": 560011,
+  "NumberOfAmbulance":"7",
+  "contact": [
+    "8045666666"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "The Bangalore Hospital",
+  "city": "Bengaluru",
+  "email": "http://www.thebangalorehospital.com/",
+  "address": "202, Rashtriya Vidyalaya Rd, 2nd Block, Basavanagudi, Bengaluru, Karnataka 560004",
+  "pincode": 560004,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8042781643"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Re life hospital",
+  "city": "Bengaluru",
+  "email": "http://www.relifehospitals.com/",
+  "address": "No 208 & 209, Dr Puneeth Rajkumar Rd, Banashankari 3rd Stage, Bengaluru, Karnataka 560085",
+  "pincode": 560085,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "9606021671"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Fortis Hospital Richmond Road",
+  "city": "Bengaluru",
+  "email": "https://fortisbangalore.com/",
+  "address": "No:62, Richmond Road, Mother Teresa Rd, behind Sacred Heart Church Entry from, Richmond Town, Bengaluru, Karnataka 560025",
+  "pincode": 560025,
+  "contact": [
+    "8884481414"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Sagar Hospitals",
+  "city": "Bengaluru",
+  "email": "https://www.sagarhospitals.in/",
+  "address": "44, 54, Tilak Nagar Main Rd, Bannerughatta Approach Road Layout, 4th T Block East, Tilak Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+  "pincode": 560041,
+  "NumberOfAmbulance":"9",
+  "contact": [
+    "8042888888"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  "hospitalName": "The Venlakh Hospital",
+  "city": "Bengaluru",
+  "email": "https://thevenlakhhospital.com/",
+  "address": "#123, 5th Main Rd, Chamrajpet, Bengaluru, Karnataka 560018",
+  "pincode": 560018,
+  "NumberOfAmbulance":"5",
+  "contact": [
+    "8026508118"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Mallige Hospital",
+  "city": "Bengaluru",
+  "email": "http://www.mallige.com/",
+  "address": "31/32, Crescent Rd, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001",
+  "pincode": 560001,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8067165555"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Fortis Hospital",
+  "city": "Bengaluru",
+  "email": "https://fortisbangalore.com",
+  "address": "14 Cunningham Road near Sigma Central Mall, Vasanth Nagar, Bengaluru, Karnataka 560052",
+  "pincode": 560052,
+  "NumberOfAmbulance":"5",
+  "contact": [
+    "9686860310"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "Manipal Hospital",
+  "city": "Bengaluru",
+  "email": "https://www.manipalhospitals.com/yeshwanthpur/",
+  "address": "Manipal Hospital Millers Road. 71/1, Millers Road, Opp to St. Anne's College, Vasanth Nagar, Bengaluru, Karnataka 560052",
+  "pincode": 560052,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "18001024647"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Victoria Hospital",
+  "city": "Bengaluru",
+  "email": "http://victoriahospitalbangalore.org/",
+  "address": "Mysore Rd, near City Market, New Tharagupet, Bengaluru, Karnataka 560002",
+  "pincode": 560002,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8026701150"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+  
+  "hospitalName": "BMCRI Super Speciality",
+  "city": "Bengaluru",
+  "email": "http://bmcribangalore.org/",
+  "address": "Alur Venkata Rao Rd, New Tharagupet, Bengaluru, Karnataka 560002",
+  "pincode": 560002,
+  "NumberOfAmbulance":"5",
+  "contact": [
+    "8026981800"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Narayana Nethralaya Eye Hospital",
+  "city": "Bengaluru",
+  "email": "https://www.narayananethralaya.org/",
+  "address": "121/C, Chord Rd, Near Iskcon Temple, 1st R Block, Rajajinagar, Bengaluru, Karnataka 560010",
+  "pincode": 560010,
+  "NumberOfAmbulance":"6",
+  "contact": [
+    "8066121643"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Kauvery Hospitals",
+  "city": "Bengaluru",
+  "email": "https://kauveryhospitalsbangalore.com/",
+  "address": "Hubli, Survey no 92/1 B, Hewlett Packard Avenue, Konappana Agrahara, Electronic City, Bengaluru, Karnataka 560100",
+  "pincode": 560100,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8068016801"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Jayadeva Hospital",
+  "city": "Bengaluru",
+  "email": "http://www.jayadevacardiology.com/",
+  "address": "B-8, B T M I Stage, Marenahalli Rd, KEB Colony, Jayanagara 9th Block, Jayanagar, Bengaluru, 560041",
+  "pincode": 560041,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8022977229"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+},{
+ 
+  "hospitalName": "Universal Hospital",
+  "city": "Pune",
+  "email": "https://UniversalHospital@gmail.com/",
+  "address": "universal hostel near shaniwarwada",
+  "pincode": 411100,
+  "NumberOfAmbulance":"3",
+  "contact": [
+    "8068016801"
+  ],
+  "doctorsList": [],
+  "treatmentList": []
+}
+]

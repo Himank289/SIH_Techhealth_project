@@ -1,0 +1,163 @@
+.searchInputs {
+    margin-top: 30px;
+    display: flex;
+  }
+  
+  .search input {
+    background-color:lightgray;
+    border: 0;
+    color: black;
+    /* border-radius: 2px; */
+    /* border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px; */
+    font-size: 18px;
+    
+    height: 30px;
+    width: 100%;
+    /* margin-left:3%; */
+
+
+  }
+
+  .search input::placeholder{
+    color: black;
+  } 
+  
+  .searchIcon {
+    height: 60px;
+    width: 50px;
+    background-color:lightgray;
+    display: grid;
+    place-items: center;
+    /* border-radius: 2px; */
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .searchIcon svg {
+    font-size: 30px;
+  }
+  
+  .dataResult {
+    margin-top: 5px;
+    width: 1200px;
+    height: 400px;
+    background-color:snow;
+    box-shadow: rgba(0, 0, 0, 0.699) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+    margin-left: 3%;
+  }
+  
+  .dataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .dataResult .dataItem {
+    width: 100%;
+    height: 50px;
+    display:contents;
+    align-items:flex-start;
+    color: rgb(5, 5, 5);
+    text-align:start;
+    
+  }
+  
+  .dataItem table {
+    border: 1px;
+    border-style: dashed;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: lightgrey;
+  }
+  
+  #clearBtn {
+    cursor: pointer;
+  }
+
+
+/* .............Mobile View............. */
+
+.mobilesearchInputs {
+  margin-top: 30px;
+  display: flex;
+}
+
+.mobilesearch input {
+  background-color:lightgray;
+  border: 0;
+  color: black;
+  /* border-radius: 2px; */
+  /* border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px; */
+  font-size: 18px;
+  padding: 15px;
+  height: 30px;
+  width: 100vw;
+}
+
+.mobilesearch input::placeholder{
+  color: black;
+} 
+
+.mobilesearchIcon {
+  height: 60px;
+  width: 50px;
+  background-color:lightgray;
+  display: grid;
+  place-items: center;
+  /* border-radius: 2px; */
+}
+
+input:focus {
+  outline: none;
+}
+.mobilesearchIcon svg {
+  font-size: 35px;
+}
+
+.mobiledataResult {
+  margin-top: 5px;
+  width: 100vw;
+  height: 40vh;
+  background-color:snow;
+  box-shadow: rgba(0, 0, 0, 0.699) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.mobiledataResult::-webkit-scrollbar {
+  display: none;
+}
+
+.mobiledataResult .dataItem {
+  width: 100vw;
+  height: 50px;
+  display:contents;
+  align-items:flex-start;
+  color: rgb(5, 5, 5);
+  text-align:start;
+}
+
+.mobiledataItem table {
+  border: 1px;
+  border-style: dashed;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: lightgrey;
+}
+
+#clearBtn {
+  cursor: pointer;
+}
